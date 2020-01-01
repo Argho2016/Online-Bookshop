@@ -1,0 +1,490 @@
+
+.imgLabel
+{
+	font-family: "Century Gothic";
+  font-weight: bold;
+  border: 1px solid #32C24D;
+  border-radius: 80px;
+  padding: 10px 10px;
+  background-color: #32C24D;
+  color: white;
+  margin-left: 460px;
+}
+
+.imgUpload
+{
+	margin-top: 45px;
+	margin-left: 400px;
+	width: 220px;
+	height: 270px;
+  margin-bottom: 20px;
+}
+
+.col2
+{
+	margin-left: 830px;
+  margin-top: -405px;
+  margin-left: 700px;
+}
+
+.bookName
+{
+  width: 40%;
+  padding: 12px 20px;
+  margin-top: 60px;
+  margin-left: 0px;
+  box-sizing: border-box;
+  border: 2px solid #32C24D;
+  border-radius: 4px;
+}
+
+.oldWriterName
+{
+	width: 40%;
+  padding: 12px 20px;
+  margin-top: 11px;
+  margin-left: 0px;
+  box-sizing: border-box;
+  border: 2px solid #32C24D;
+  border-radius: 4px;
+}
+
+.oldPublication
+{
+	width: 40%;
+  padding: 12px 20px;
+  margin-top: 20px;
+  margin-left: 0px;
+  box-sizing: border-box;
+  border: 2px solid #32C24D;
+  border-radius: 4px;
+}
+
+.oldSubject
+{
+	width: 40%;
+  padding: 12px 20px;
+  margin-top: 20px;
+  margin-left: 0px;
+  box-sizing: border-box;
+  border: 2px solid #32C24D;
+  border-radius: 4px;
+}
+
+.price
+{
+	width: 40%;
+  padding: 12px 20px;
+  margin-top: 20px;
+  margin-left: 0px;
+  box-sizing: border-box;
+  border: 2px solid #32C24D;
+  border-radius: 4px;
+}
+
+.bquantity
+{
+  width: 40%;
+  padding: 12px 20px;
+  margin-top: 20px;
+  margin-left: 0px;
+  box-sizing: border-box;
+  border: 2px solid #32C24D;
+  border-radius: 4px;
+}
+
+.bdescription
+{
+  width: 40%;
+  padding: 12px 20px;
+  margin-top: 20px;
+  margin-left: 0px;
+  box-sizing: border-box;
+  border: 2px solid #32C24D;
+  border-radius: 4px;
+}
+
+.addNewBook
+{
+	font-family: "Century Gothic";
+  font-weight: bold;
+	border: 1px solid #32C24D;
+	border-radius: 80px;
+	padding: 10px 40px;
+	background-color: #32C24D;
+	color: white;
+	margin-left: 75px;
+	margin-top: 13px;
+}
+
+img.bookImage
+{
+  margin-left: 250px;
+  width: 250px;
+  height: 250px;
+}
+
+.bookDetail
+{
+  margin-top: 30px;
+}
+
+.bDetails
+{
+  margin-left: 600px;
+  margin-top: -300px;
+}
+
+.bookQuantity
+{
+  margin-top: 40px;
+  margin-left: 130px;
+}
+
+.comment
+{
+  margin-top: 50px;
+}
+
+.commentButton
+{
+  margin-left: 20px;
+  margin-bottom: 80px;
+}
+
+.commentBox
+{
+  border: 2px solid #0397D3
+}
+
+.shoppingCart
+{
+  font-size: 50px;
+}
+
+.bimg
+{
+  margin-left: 60px;
+}
+
+.cartTable
+{
+  margin-left: 50px;
+  margin-top: 60px;
+}
+
+.cart_delete
+{
+  text-align: center;
+}
+
+.cartTable th, .cartTable tr
+{
+  border: 3px solid #33C24D;
+  padding: 5px;
+  text-align: center;
+  border-spacing: 20px;
+}
+
+.cartTable tr
+{
+  font-family: century gothic;
+  font-size: 20px;
+}
+
+.cartTable th
+{
+  background-color: #33C24D;
+  color: white;
+}
+
+.conShip
+{
+  background-color: #FFAD33;
+  margin-top: 30px;
+  margin-left: 1080px;
+  color: white;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 30px;
+  padding: 10px 20px;
+  border: 0px;
+
+}
+
+.shippingAddress
+{
+  background-color: #33C24D;
+  border: 1px solid #33C24D;
+  color: white;
+  padding: 10px 20px;
+  font-family: century gothic;
+  font-weight: bold;
+  width: 40%;
+  border-radius: 40px;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  margin-left: 350px;
+  text-align: center;
+}
+
+.sname
+{
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 490px; 
+  padding: 5px 10px;
+  border: 1.5px solid #FFAD33;
+  width: 20%;
+  border-radius: 40px;
+}
+
+.sphone
+{
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 490px; 
+  padding: 5px 10px;
+  border: 1.5px solid #FFAD33;
+  width: 20%;
+  border-radius: 40px;
+}
+
+.saphone
+{
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 490px; 
+  padding: 5px 10px;
+  border: 1.5px solid #FFAD33;
+  width: 20%;
+  border-radius: 40px;
+}
+
+.address
+{
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 490px; 
+  padding: 5px 10px;
+  border: 1.5px solid #FFAD33;
+  width: 20%;
+  border-radius: 10px;
+}
+
+.payment
+{
+  margin-top: 10px;
+  margin-left: 455px;
+  color: #FFAD33;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 2px;
+}
+
+.radioButton {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 6px;
+  margin-left: 550px;
+  cursor: pointer;
+  font-size: 17px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.radioButton input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.radioButton:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.radioButton input:checked ~ .checkmark {
+  background-color: #FFAD33;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.radioButton input:checked ~ .checkmark:after {
+  display: block;
+}
+
+
+.bshipping
+{
+  margin-left: 580px;
+  border: 0px;
+  background-color: #FFAD33;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 40px;
+  margin-top: 5px;
+  font-weight: bold;
+  font-family: century gothic;
+}
+
+.csummary
+{
+  background-color: #33C24D;
+  border: 1px solid #33C24D;
+  color: white;
+  padding: 10px 20px;
+  font-family: century gothic;
+  font-weight: bold;
+  width: 40%;
+  border-radius: 40px;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  margin-left: 350px;
+  text-align: center;
+}
+
+.corder
+{
+  margin-top: 10px;
+  margin-left: 450px;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.cname
+{
+  margin-left: 450px;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.cphone
+{
+  margin-left: 450px;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.caphone
+{
+  margin-left: 450px;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.caddress
+{
+  margin-left: 450px;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+}
+
+.cmethod
+{
+  margin-left: 450px;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.ctotal
+{
+  margin-left: 450px;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.cnote
+{
+  margin-top: 30px;
+  margin-left: 300px;
+  font-family: century gothic;
+  font-weight: bold;
+  font-size: 30px;
+  color: #FFAD33;
+}
+
+.btn-primary
+{
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.btn
+{
+  display: inline-block;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+
+.col3
+{
+  margin-left: 500px;
+  margin-top: -30px;
+}
+
+
+.updateBook
+{
+  font-family: "Century Gothic";
+  font-weight: bold;
+  border: 1px solid #32C24D;
+  border-radius: 80px;
+  padding: 10px 40px;
+  background-color: #32C24D;
+  color: white;
+  margin-left: 90px;
+  margin-top: 13px;
+}
+
+#productForm
+{
+  margin-left: 200px;
+}
+
+.cartButton
+{
+  margin-left: 450px;
+  margin-top: -40px;
+}
