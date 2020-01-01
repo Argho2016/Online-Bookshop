@@ -1,0 +1,40 @@
+.customerList-background{
+  background-color: hsl(0, 0%, 94%);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.customerList-table {
+	margin-left: 10%;
+	margin-right: 10%;
+  border-radius: 5px;
+	width: 80%;
+  background-color: white;
+	padding: 10px;
+
+}
+
+.customerList-table tr td {
+  padding: 10px;
+  border: 3px solid hsl(0, 0%, 94%);
+}
+
+fieldset {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: hsl(0, 0%, 94%);
+}
+
+.customerList-search-str {
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+  height: 45px;
+}
+
+.customerList table tr td {
+  border-collapse: collapse;
+}

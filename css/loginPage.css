@@ -1,0 +1,30 @@
+.container-loginBox {
+  border: 2px solid green;
+  border-radius: 10px;
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+.container-loginBox .fname {
+  border: 2px solid green;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+
+}
+.container-loginBox .lname {
+  border: 2px solid green;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.loginButton {
+
+  padding: 20px;
+  padding: 10px;
+  color: white;
+  background-color: #32C24D;
+  border-radius: 10px;
+}

@@ -1,0 +1,17 @@
+.emp-edit hr {
+  color: #32C24D;
+  font-family: "Century Gothic";
+  border: 1px solid green;
+  width: 100%;
+}
+
+.emp-edit fieldset {
+  width:;
+  font-family: "Century Gothic";
+  border: 2px solid green;
+  border-radius: 10px;
+}
+
+.emp-edit input {
+  width:auto;
+}

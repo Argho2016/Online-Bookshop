@@ -1,0 +1,50 @@
+.post-table {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20px;
+	width: 80%;
+	background-color: hsl(0, 0%, 94%);
+	padding: 10px;
+	color: green;
+
+}
+
+.post-table tr td hr {
+	color: ;
+	opacity: 0.3;
+}
+
+.post-table tr td input {
+	width: 100%;
+	height: 35px;
+	border-radius: 5px;
+	border: 1px solid green;
+	padding: 10px;
+}
+
+.post-table tr td select {
+	width: ;
+	height: 35px;
+	border-radius: 5px;
+	border: 1px solid green;
+	padding: px;
+}
+
+.post-table tr td label {
+}
+
+.post-table .img input {
+	width: 100%;
+	height: 35px;
+	border-radius: 5px;
+	border: 1px solid green;
+	padding: 0px;
+
+}
+
+#image {
+	border: none;
+}
+
+#description {
+}

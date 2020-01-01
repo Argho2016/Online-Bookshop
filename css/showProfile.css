@@ -1,0 +1,57 @@
+/* .showProfile-table {
+  margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20px;
+	width: 80%;
+	background-color: hsl(0, 0%, 94%);
+	padding: 10px;
+	color: green;
+} */
+
+hr {
+  opacity: 0.3;
+}
+
+
+.showProfile-background  table tr td{
+  padding: 10px;
+}
+.showProfile-background{
+  background-color: hsl(0, 0%, 94%);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+}
+.showProfile-table {
+	margin-left: 10%;
+	margin-right: 10%;
+  border-radius: 5px;
+	width: 80%;
+  background-color: white;
+	padding: 10px;
+
+}
+
+.showProfile-table tr td img {
+  float: right;
+}
+
+#title {
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+}
+
+fieldset {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: hsl(0, 0%, 94%);
+}
+.showProfile-fieldset {
+  background-color: white;
+}
+/* .showProfile-table img{
+  width: 200px;
+  height: 300px;
+  align: left;
+} */

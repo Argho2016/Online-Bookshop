@@ -1,0 +1,37 @@
+
+
+
+.tbl_emp {
+  margin: 15px;
+  padding:10px;
+  align-items: center;
+
+}
+
+.tbl_emp table, .tbl_emp tr, .tbl_emp td, .tbl_emp th{
+  padding:2px;
+  border-collapse: collapse;
+  border-color: green;
+  border-style: solid;
+  border-radius: 10px;
+
+}
+
+
+
+
+
+
+.tbl_details table {
+  border: 2px solid green;
+  border-radius: 10px;
+  width: 100%;
+  height: 70px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #32C24D;
+  font-family: "Century Gothic";
+  margin: 10px auto;
+
+}

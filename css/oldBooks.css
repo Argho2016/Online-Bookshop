@@ -1,0 +1,56 @@
+.oldBooks-background{
+  background-color: hsl(0, 0%, 94%);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+}
+.oldBooks-table {
+	margin-left: 10%;
+	margin-right: 10%;
+  border-radius: 5px;
+	width: 80%;
+  background-color: white;
+	padding: 10px;
+
+}
+.oldBooks-table tr td {
+  padding: 10px;
+  border: 3px solid hsl(0, 0%, 94%);
+}
+
+.oldBooks-search-input {
+  margin-bottom: -2px;
+}
+
+.oldBooks-search-input .oldBooks-search {
+  border: none;
+  border-radius: 5px;
+  width: 90px;
+  height: 45px;
+  background-color: #32C24D;
+  color: white;
+}
+
+.oldBooks-search-input .oldBooks-search-str {
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+  height: 45px;
+}
+
+fieldset {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: hsl(0, 0%, 94%);
+
+}
+
+fieldset select {
+  width: 200px;
+  padding: ;
+  border-style: solid;
+  border-radius: 5px;
+  height: 30px;
+}
